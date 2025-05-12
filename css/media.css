@@ -1,0 +1,28 @@
+/* sm */
+@media (min-width: 640px) {
+}
+/* md */
+@media (min-width: 768px) {
+    .dropdown:hover .dropdown-menu{
+        display: block;
+        margin-top: 0;
+    }
+    #home{
+        h1{
+            font-size: 4.5rem;
+            margin: 0 4rem;
+        }
+        .text-typing::after{
+            font-size: 2.5rem;
+        }
+    }
+}
+/* lg */
+@media (min-width: 1024px) {
+}
+/* xl */
+@media (min-width: 1280px) {
+}
+/* 2xl */
+@media (min-width: 1536px) {
+}
